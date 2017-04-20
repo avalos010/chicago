@@ -150,9 +150,7 @@ footer {
     
     }
     @media (max-width: 400px) {
-        .chiflag {
-            display: none;
-        }
+     
         .hr {
             display: none;
         }
