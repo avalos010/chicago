@@ -157,11 +157,13 @@ footer {
             display: none;
         }
         .coverheader {
-            height: 300px;
+            height: 565px;
+            background-size: contain;
+            line-height: .5;
+            border-bottom: 1px solid #fff;
         }
         body {
         
-            color: white;
             font-size: 1.2em;
         }
         .chicago-river {
@@ -170,12 +172,18 @@ footer {
             margin-top: 12px;
            
         }
+        .chicago-river a {
+            color:#89cff0;
+        }
         .sears-tower {
             float: none;
             width: 100%;
         }
         .about p {
             padding-top: 25px;
+        }
+        h3 {
+            font-size: 2.5em;
         }
 
         footer {
